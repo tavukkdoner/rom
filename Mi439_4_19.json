@@ -1,1 +1,29 @@
+{
+	"response": [
+		{
+			"maintainer": "tavukkdoner",
+			"oem": "Redmi",
+			"device": "Redmi SDM439 devices",
+			"filename": "crDroidAndroid-14.0-20240813-Mi439_4_19-v10.7.zip",
+			"download": "https://github.com/tavukkdoner/rom/releases/download/v8/crDroidAndroid-14.0-20240813-Mi439_4_19-v10.7.zip",
+			"timestamp": 1723512486,
+			"md5": "34697ba87b7fa62b488a94b418988aa1",
+			"sha256": "785d0e8d77103f3ee22dc58f3ff323720966a9602e1fae978a5715b1a460ca66",
+			"size": 1302477418,
+			"version": "10.7",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "https://nikgapps.com/crdroid-official",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/tavukkdoner/rom/releases/download/v8/recovery.img",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/Mi-Thorium/android_device_xiaomi_Mi439",
+			"common-dt": "https://github.com/Mi-Thorium/android_device_xiaomi_mithorium-common",
+			"kernel": "https://github.com/Mi-Throium/kernel_msm-4.19"
+		}
+	]
+}
 
