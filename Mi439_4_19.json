@@ -3,7 +3,7 @@
 		{
 			"maintainer": "tavukkdoner",
 			"oem": "Redmi",
-			"device": "Redmi SDM439 devices",
+			"device": "Redmi SDM439 devices of 0xCAFEBABE",
 			"filename": "crDroidAndroid-14.0-20240813-Mi439_4_19-v10.7.zip",
 			"download": "https://github.com/tavukkdoner/rom/releases/download/v8/crDroidAndroid-14.0-20240813-Mi439_4_19-v10.7.zip",
 			"timestamp": 1723512486,
